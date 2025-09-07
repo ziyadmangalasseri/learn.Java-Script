@@ -26,13 +26,4 @@ Imagine a **house with rooms**:
 - **Scope Chaining** → Checking your room’s backpack, then the parent’s, up to the main house, to find an item.  
 
 ---
-
-## 📚 Further Learning
-
-### ✅ Try It Out
-Write a simple JavaScript program with nested functions and log variables from different scopes to see scope chaining in action.
-
-### ✅ Explore Closures
-Learn how lexical environments enable **closures**, where functions "remember" their outer scope’s variables.
-
 ---
