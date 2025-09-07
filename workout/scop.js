@@ -50,15 +50,15 @@
 
 // 4: Shadowing Variables in Scope
 
-let name = "Alice"; // Global scope
+// let name = "Alice"; // Global scope
 
-function greet() {
-  let name = "Bob"; // Function scope, shadows global 'name'
-  console.log(`Hello, ${name}!`); // Uses local 'name': "Hello, Bob!"
-}
+// function greet() {
+//   let name = "Bob"; // Function scope, shadows global 'name'
+//   console.log(`Hello, ${name}!`); // Uses local 'name': "Hello, Bob!"
+// }
 
-greet();
-console.log(`Hello, ${name}!`); // Uses global 'name': "Hello, Alice!"
+// greet();
+// console.log(`Hello, ${name}!`); // Uses global 'name': "Hello, Alice!"
 
 
 // 5: Common Scope Mistake in Loops
