@@ -19,6 +19,7 @@
 ## 📌 Ways to Select Elements
 Before manipulating, we need to **select elements**.
 
+
 ```js
 // Select by ID
 document.getElementById("myId");
